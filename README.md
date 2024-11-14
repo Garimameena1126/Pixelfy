@@ -1,6 +1,3 @@
-Here’s a concise 350-word description for **Pixelfy**:
-
----
 
 ### Project Description
 
@@ -26,7 +23,3 @@ The project is designed for easy use and extension, making it a valuable educati
 2. Upload an image and select a filter button to apply the effect.
 
 Whether you’re just starting with HTML and JavaScript or looking to add interactive effects to a project, Pixelfy provides a fun and approachable experience in web-based image manipulation.
-
----
-
-This description should fit well on a GitHub page, covering the core features and setup instructions for users.
